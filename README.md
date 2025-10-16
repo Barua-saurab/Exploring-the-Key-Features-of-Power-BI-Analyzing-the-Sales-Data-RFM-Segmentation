@@ -1,4 +1,4 @@
-Project Overview: Exploring the Key Features of Power BI – Analyzing the Sales Data (RFM Segmentation)
+**Project Overview: Exploring the Key Features of Power BI – Analyzing the Sales Data (RFM Segmentation)**
 
 This project demonstrates how Microsoft Power BI can transform raw business data into actionable insights using advanced data modeling, visualization, and analytics features. The analysis is based on a sales dataset (2020–2022) from an automotive company and focuses on uncovering sales trends, customer behavior, product performance, and regional insights.
 
