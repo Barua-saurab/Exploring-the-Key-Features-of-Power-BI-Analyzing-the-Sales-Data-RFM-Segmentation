@@ -18,7 +18,7 @@ Top Categories: Accessories & Bikes contributed the highest revenue.
 Top Regions: Europe and North America lead with balanced market performance. 
 High Return Items: Tires & Tubes show strong demand but higher return rates, suggesting a quality review. 
 Customer Segmentation: RFM analysis highlights “Champions” and “Loyal Customers” as the most profitable segments.
-
+![image alt](https://github.com/Barua-saurab/Exploring-the-Key-Features-of-Power-BI-Analyzing-the-Sales-Data-RFM-Segmentation/blob/main/Screenshot%202025-10-29%20231644.png?raw=true)
 🧩 Power BI Features Used Data Modeling: 
 Fact & Dimension Tables, Primary & Foreign Keys 
 Power Query: Data cleaning, transformation, and auto-refresh folder connection 
